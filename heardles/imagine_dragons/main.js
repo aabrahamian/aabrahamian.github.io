@@ -2830,7 +2830,6 @@ var app = (function () {
       const e = document.createElement("iframe");
       (e.name = h.id),
         (e.id = "soundcloud" + h.id),
-        (e.allow = "autoplay"),
         (e.height = 0),
         (e.src =
           "https://w.soundcloud.com/player/?url=" + h.url + "&cache=" + h.id),
