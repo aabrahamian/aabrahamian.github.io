@@ -15,7 +15,7 @@ var app = (function () {
 "Take It Easy - Imagine Dragons",
 "Real Life - Imagine Dragons",
 "Higher Ground - Imagine Dragons",
-"Enemy (with JID) - from the series Arcane League of Legends - Imagine Dragons, JID, Arcane, League of Legends",
+"Enemy (Arcane League of Legends) - Imagine Dragons",
 "The River - Imagine Dragons",
 "I Was Me - Imagine Dragons",
 "Love - Imagine Dragons",
@@ -62,7 +62,7 @@ var app = (function () {
 "Dull Knives - Imagine Dragons",
 "Underdog - Imagine Dragons",
 "Polaroid - Imagine Dragons",
-"Zero (From the Original Motion Picture Ralph Breaks The Internet) - Imagine Dragons",
+"Zero - Imagine Dragons",
 "Working Man - Imagine Dragons",
 "Cha-Ching (Till We Grow Older) - Imagine Dragons",
 "I Don't Like Myself - Imagine Dragons",
@@ -177,7 +177,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/imaginedragons/enemy-from-the-series-arcane-1",
-            answer: "Enemy (with JID) - from the series Arcane League of Legends - Imagine Dragons, JID, Arcane, League of Legends",
+            answer: "Enemy (Arcane League of Legends)",
           },
           {
             url: "https://soundcloud.com/imaginedragons/07-the-river",
@@ -336,7 +336,7 @@ var app = (function () {
             answer: "Every Night - Imagine Dragons",
           },
           {
-            url: "https://soundcloud.com/imaginedragons/radioactive-1",
+            url: "https://soundcloud.com/fuse-28/imagine-dragons-night-visions-full-album-2012",
             answer: "Radioactive - Imagine Dragons",
           },
           {
@@ -365,7 +365,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/imaginedragons/zero-from-the-original-motion",
-            answer: "Zero (From the Original Motion Picture Ralph Breaks The Internet) - Imagine Dragons",
+            answer: "Zero - Imagine Dragons",
           },
           {
             url: "https://soundcloud.com/imaginedragons/working-man",
