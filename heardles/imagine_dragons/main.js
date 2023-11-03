@@ -556,7 +556,7 @@ var app = (function () {
             answer: "Easy - Imagine Dragons",
           },
           {
-            url: "https://soundcloud.com/imaginedragons/born-to-be-yours-with-imagine",
+            url: "https://soundcloud.com/chill-master-310289834/kygo-imagine-dragons-born-to-be-yours-mike-destro-remix",
             answer: "Born To Be Yours - Kygo, Imagine Dragons",
           },
           {
